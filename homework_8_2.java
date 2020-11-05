@@ -36,5 +36,6 @@ public class homework_8_2 {
             }
             System.out.println();
         }
+        in.close();
     }
 }

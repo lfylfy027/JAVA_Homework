@@ -23,5 +23,6 @@ public class homework_7_10 {
             array[i]=in.nextInt();
         }
         System.out.println(indexofSmallestElement(array));
+        in.close();
     }
 }

@@ -14,5 +14,6 @@ public class homework_6_4 {
         Scanner in=new Scanner(System.in);
         int number=in.nextInt();
         reverse(number);
+        in.close();
     }
 }

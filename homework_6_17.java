@@ -18,5 +18,6 @@ public class homework_6_17 {
         Scanner in=new Scanner(System.in);
         int number=in.nextInt();
         printMatrix(number);
+        in.close();
     }
 }
